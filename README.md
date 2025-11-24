@@ -1,1 +1,2 @@
 This project will be focused on building a basic recipe website using all of the HTML knowledge I have aquired
+After completing the project I have gotten more comfortable with using elements with their attributes like links and images with relative links especially when trying to use the proper links for the images 
